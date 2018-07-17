@@ -28,15 +28,25 @@ Tout d'abord :
 - Les speedrun ce sont des tentatives rapide pour battre un record du monde sur un jeu 
 - Ca permet de voir en action des jeux que l'on hésiterait à acheter, et parfois d'en découvrir certains auxquels on n'aurait même pas imaginé donner une chance.
 
-Bref ou je veux en venir c'est que ca va changer considérablement notre façon de se tenir informer, de nous divertir surtout et ca le fait déjà a savoir que Twitch.tv représente 43,6% du volume de contenu streaming en 2014 (aux derniere nouvelles ce chiffre serait passé a du 78%) ca dépasse même la WWE (chaine qui diffuse du catch) ou encore l’ESPN (plateforme basée sur le sport) les créateurs de contenu appelé "streamers" ont bien capté le message...
+Bref ou je veux en venir c'est que ca va changer considérablement notre façon de se tenir informer, de nous divertir surtout et ca le fait déjà a savoir que Twitch.tv représente 43,6% du volume de contenu streaming en 2014 (aux dernieres nouvelles ce chiffre serait passé a du 78%) ca dépasse même la WWE (chaine qui diffuse du catch) ou encore l’ESPN (plateforme basée sur le sport) les créateurs de contenu appelé "streamers" ont bien capté le message...
 
-### On entre dans le monde du numérique avec un média récent et élitiste, il va falloir s'y habituer ou pas !
+## On entre dans le monde du numérique qu'on le veuille ou non avec un média récent et élitiste, il va falloir s'y habituer !!!
+
+A sa voir que Twitch a sa propre API Twitch developers
+
+https://dev.twitch.tv/docs/
+
+Cette première version fournira aux créateurs de Twitch des outils qui permettront la création de nouvelles experiences.
 
 --------------------------------------------------
 
 ## Le flux kesako ?!?!????
 
 ## Petite mise en pratique d'OBS Studio (si affinités)
+
+OBS : Open Broadcaster Software
+
+C'est le logiciel libre le plus utilisé et totalement open source (qui permet la capture d'écran et de streaming exploité sur Microsoft, MacOS & Linux)
 
 - https://obsproject.com/fr/download#closeNotice
 
