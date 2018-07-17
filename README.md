@@ -1,6 +1,6 @@
 # WORKSHOP Michaël
 
-> Workshop sur Twitch(Amazon) & streaming, le flux et OBS Studio
+> Workshop sur Twitch(Amazon) & streaming, le flux et initiation à OBS Studio.
 
 ![Twitch](Twitch.png)
 
