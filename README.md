@@ -1,12 +1,14 @@
 # WORKSHOP Michaël
 
-> Workshop sur Twitch & (streaming), le flux et OBS Studio
+> Workshop sur Twitch(Amazon) & streaming, le flux et OBS Studio
+
+![Twitch](Twitch.png)
 
 -------------------------------------------------------
 
 ## Twitch et le streaming en général - qu'est-ce que c'est ?
 
-Twitch c'est avant tout une plate-forme collaborative qui a été créé aux USA qui permet de regarder des vidéos de gens et plus particulierement des gens qui jouent à des jeux vidéo, d'autres qui font de la cuisine, certains comme nos amis **Mathieu** et **Ludo** qui nous font des sessions au code.
+Twitch c'est avant tout une plate-forme collaborative qui a été créé aux USA (et racheté il y a peu par Amazon) qui permet de regarder des vidéos de gens et plus particulierement des gens qui jouent à des jeux vidéo, d'autres qui font de la cuisine et certains comme nos amis **Mathieu** et **Ludo** qui nous font des sessions au code, il est multiplateforme !
 
 Le streaming LEGAL est un mode de diffusion et de lecture de contenus (son, vidéo) de séries, de films (coucou Netflix) en _flux_ continu, très utilisé sur Internet depuis pas mal d'années maintenant il y a eu toute sorte d'évolution au fil du temps.
 
@@ -32,17 +34,17 @@ Bref ou je veux en venir c'est que ca va changer considérablement notre façon 
 
 ## On entre dans le monde du numérique qu'on le veuille ou non avec un média récent et élitiste, il va falloir s'y habituer !!!
 
-A sa voir que Twitch a sa propre API Twitch developers
+A sa voir que Twitch a sa propre API Twitch developers.
 
 https://dev.twitch.tv/docs/
 
-Cette première version fournira aux créateurs de Twitch des outils qui permettront la création de nouvelles experiences.
+Cette première version fournira aux créateurs de Twitch des outils qui permettront la création de nouvelles experiences pour l'utilisateur dans un premier temps (viewer) et pour la chaine qui diffuse son "programme" (streamer).
 
 --------------------------------------------------
 
 ## Le flux kesako ?!?!????
 
-Pour ceux et celles qui se pose la question de savoir qu'est ce que le flux ici concretement
+C'est des éléments gérés de façon temporaire et plus généralement la transmission d'informations multimédia temporelles on peut donc déduire que le flux c'est tout simplement l'import du media via le streaming.
 
 ## Petite mise en pratique d'OBS Studio (si affinités)
 
