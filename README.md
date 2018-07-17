@@ -42,6 +42,8 @@ Cette première version fournira aux créateurs de Twitch des outils qui permett
 
 ## Le flux kesako ?!?!????
 
+Pour ceux et celles qui se pose la question de savoir qu'est ce que le flux ici concretement
+
 ## Petite mise en pratique d'OBS Studio (si affinités)
 
 OBS : Open Broadcaster Software
