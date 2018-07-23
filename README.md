@@ -40,6 +40,8 @@ Bref ou je veux en venir c'est que ca va changer considérablement notre façon 
 
 ## 3. Twitch et son API...
 
+https://www.youtube.com/watch?v=WOi75bb_SoQ
+
 A sa voir que Twitch a sa propre API ~ Twitch developers.
 
 https://dev.twitch.tv/docs/
@@ -64,6 +66,18 @@ OBS : Open Broadcaster Software
 
 C'est le logiciel libre le plus utilisé et totalement open source (qui permet la capture d'écran et de streaming exploité sur Microsoft, MacOS & Linux)
 
-- https://obsproject.com/fr/download#closeNotice
+* Télécharger OBS Studio : https://obsproject.com/fr/download#closeNotice.
+* Prendre le fichier ZIP l'extraire sur votre bureau ou autres.
+* Scene "Start Stream" : ajouter le start stream mp4 + timer mp4 en chromatique.
+* Scene "Online" : ajouter l'overlay + la cam.
+* Scene "Talkshow" : ajouter le talkshow + cam (no minichat).
+* Scene "End Stream" : ajouter pour finir le end stream.
+
+
+Pour ceux et/ou celles qui veulent en savoir + sur Twitch les réglages du lancement d'un stream online qu'on me le fasse savoir !
+
+
+# Un grand merci a vous et qui sait @bientot sur Twitch !!!
+
 
 
